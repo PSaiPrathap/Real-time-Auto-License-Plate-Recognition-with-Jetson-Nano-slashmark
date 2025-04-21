@@ -55,4 +55,3 @@ This repository contains a Python script that performs real-time object detectio
 ## 📸 Example Output
 ![ocr_result](https://github.com/user-attachments/assets/5772e9a0-e8d6-44f5-af8b-5f3e4986d89a)
 
-![outputresult1](https://github.com/user-attachments/assets/6edd8af0-a4d3-4917-907f-0ff0a5b3af57)
